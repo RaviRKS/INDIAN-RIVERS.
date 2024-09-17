@@ -4,7 +4,7 @@
 
 ### Live Demo 🌐
 
-Check out the live version of the project: [10 Indian Rivers](https://app.netlify.com/sites/www-10-indian-rivers-in/overview)
+Check out the live version of the project: [10 Indian Rivers](https://www-10-indian-rivers-in.netlify.app/)
 
 ---
 
@@ -32,3 +32,12 @@ To run this project locally on your machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/10-indian-rivers.git
+
+2. Navigate into the project folder:
+   ```bash
+   cd 10-indian-rivers
+
+3. Open the index.html file in your preferred browser:
+   ```bash
+   open index.html
+
