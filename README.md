@@ -4,7 +4,7 @@
 
 ### Live Demo 🌐
 
-Check out the live version of the project: [10 Indian Rivers](https://www-10-indian-rivers-in.netlify.app/)
+Check out the live version of the project: [10 Indian Rivers](https://app.netlify.com/sites/www-10-indian-rivers-in/overview)
 
 ---
 
